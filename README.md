@@ -42,8 +42,10 @@ A full-stack web application developed to digitize document management processes
 
 - GitHub Repo: https://github.com/papazeee/district-assembly-filling-app
   #### Live Demo: https://district-assembly-filling-app-h6ri.vercel.app
+  **Test user Account**
   - email: uncle@adaeast.gov.gh
-  - password: Admin1234   
+  - password: Admin1234
+  Access level: Standard user (no admin privileges)  
 
 ---
 
