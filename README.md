@@ -40,7 +40,8 @@ A full-stack web application developed to digitize document management processes
 
 **Tech Stack:** HTML, CSS, JavaScript, Python  
 
-GitHub Repo: https://github.com/papazeee/district-assembly-filling-app  
+GitHub Repo: https://github.com/papazeee/district-assembly-filling-app
+Live Demo: https://district-assembly-filling-app-h6ri.vercel.app
    
 
 ---
