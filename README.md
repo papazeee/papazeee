@@ -46,7 +46,7 @@ A full-stack web application developed to digitize document management processes
   - email: testuser@adaeast.gov.gh
   - password: test_user
      
-Access level: Standard user (no admin privileges)
+    Access level: Standard user (no admin privileges)
 ---
 
 ## Certifications
