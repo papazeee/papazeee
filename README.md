@@ -1,6 +1,6 @@
 # Uncle Jojo Ochir
 
-Computer Engineering student with a strong interest in  software development, system design, and networking. I build practical solutions that solve real-world problems, with experience in both software and hardware systems.
+Computer Engineering graduate with a strong interest in  software development, system design, and networking. I build practical solutions that solve real-world problems, with experience in both software and hardware systems.
 
 ---
 ## Education
